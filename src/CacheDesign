@@ -1,0 +1,11 @@
+Cache
+ Eviction Policy => Implementation
+ Generic Class implementation
+ supported Caching Strategy {}
+ Design pattern : Strategy design pattern
+
+ Composition
+
+ Interface: Cache,
+ Implementation: LRU Implementation, LFU Implementation
+ Enums: LRU, LFU
